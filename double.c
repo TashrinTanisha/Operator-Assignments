@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    double x, y, z;
+    double x,y,z;
 
     x = 10;
 
@@ -9,7 +9,7 @@ int main()
 
     z = 30;
 
-    printf("xyz = %.2lf", x * y / z) ;
+    printf("xyz = %.2lf",x * y / z);
 
     return 0;
 }
